@@ -89,6 +89,16 @@ if(valor1 >= 1 && valor2 <= 50){
 }
 
 
+//operador lógico mod % 
+
+let number = 36587452;
+
+if(number % 2 === 0){
+    console.log('es par')
+}
+else{
+    console.log('no es par')
+}
 
 
 

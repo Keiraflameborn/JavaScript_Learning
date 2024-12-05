@@ -26,6 +26,34 @@ console.log(newNumber)
 
 
 
+let animal = "wolf";
+let number = 4;
+let bandera = true;
+let unde
+
+let secondAnimal = 'cat'
+animal = secondAnimal; 
+console.log(animal)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
